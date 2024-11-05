@@ -55,7 +55,7 @@ This project extends GradeMate, focusing on improving grading accuracy through m
   [TED Talk](https://www.ted.com/talks/laura_uguccioni_a_human_machine_collaboration_to_avoid_wrongful_incarceration?subtitle=en&geo=es)
 
 - **Twitter Sentiment in New York City Parks as a Measure of Well-Being**  
-  [Research Paper](https://www.sciencedirect.com/science/article/pii/S0169204618305863)
+  [ScienceDirect Link](https://www.sciencedirect.com/science/article/pii/S0169204618305863)
 
 - **Indebted to Work: Bondage in Brick Kilns**  
   [Springer Link](https://link.springer.com/chapter/10.1057/978-1-349-95957-0_19)  
