@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 
 🎓 **Data Scientist | ML Engineer | AI Innovator**
 
-I'm a data scientist specializing in **NLP, statistics, and machine learning**. My journey has taken me from academic training in quantitative social science to managing data science teams and diving into hands-on engineering. I'm passionate about building AI tools and mentoring future innovators. Recently, I’ve focused on **AI-driven tools for education** and further exploring the **mathematics of model building**.
+I’m passionate about the intersection of technology, social science, and ethics. My journey has taken me from academic training in quantitative social science to managing data science teams and diving into hands-on engineering. I'm passionate about building AI tools and mentoring future innovators. Recently, I’ve focused on **AI-driven tools for education** and further exploring the **mathematics of model building**.
 
 ---
 
@@ -35,14 +35,15 @@ This project extends GradeMate, focusing on improving grading accuracy through m
 ## 🧠 Skills & Expertise
 
 **Programming & Libraries**  
-- **Python**: Scikit-learn, PyTorch, LangChain, Matplotlib
-- **R**: Tidyverse, Stan
-- **ML Frameworks**: TensorFlow, Spark
+- **Python**: Scikit-learn, LangChain, Matplotlib
+- **R**: Tidyverse, RStan, stats
+- **ML Frameworks**: PyTorch, TensorFlow, Spark
 
 **Areas of Interest**  
 - **Natural Language Processing (NLP)**
 - **Machine Learning Engineering**
 - **Bayesian Statistics**
+- **AI Ethics**
 
 ---
 
