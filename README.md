@@ -41,8 +41,8 @@ This project extends GradeMate, focusing on improving grading accuracy through m
 
 **Areas of Interest**  
 - **Natural Language Processing (NLP)**
-- **Machine Learning and Statistics**
-- **Model Engineering**
+- **Machine Learning Engineering**
+- **Bayesian Statistics**
 
 ---
 
