@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 
 # Hi there! 👋 I'm Laura Uguccioni
 
-🎓 **Data Scientist**
+🎓 **Data Scientist | ML Engineer | AI Innovator**
 
 I'm a data scientist specializing in **NLP, statistics, and machine learning**. My journey has taken me from academic training in quantitative social science to managing data science teams and diving into hands-on engineering. I'm passionate about building AI tools and mentoring future innovators. Recently, I’ve focused on **AI-driven tools for education** and further exploring the **mathematics of model building**.
 
