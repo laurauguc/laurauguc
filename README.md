@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 
 🎓 **Data Scientist | Machine Learning Engineer | AI Innovator**
 
-I’m passionate about the intersection of technology, social science, and ethics. My journey has taken me from academic training in quantitative social science to managing data science teams and diving into hands-on engineering. I'm passionate about building AI tools and mentoring future innovators. Recently, I’ve focused on **AI-driven tools for education** and further exploring the **mathematics of model building**.
+I’m passionate about the intersection of technology, social science, and ethics. My journey has taken me from academic training in quantitative social science to managing data science teams and diving into hands-on engineering. I'm committed to building socially responsible tools and mentoring future innovators. Recently, I’ve focused on **AI-driven tools for education** and further exploring the **mathematics of model building**.
 
 ---
 
