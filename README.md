@@ -22,7 +22,7 @@ I’m passionate about the intersection of technology, social science, and ethic
 
 ---
 
-## 🔍 What I'm Working On
+## 🔭 What I'm Working On
 
 **🌟 [GradeMate](https://github.com/laurauguc/grading_assistant)** — *App Development*  
 An AI-powered app designed to assist teachers with grading by providing insightful recommendations. I built the backend using python and Django and integrated it with the React frontend, built by my friend Ksenia. We are working with QMSS Innovation Lab to exapnd this project and developing a **freemium model** that offers a free basic tier for individual educators and a premium version for schools, complete with enhanced features and integrations.
@@ -71,7 +71,7 @@ This project extends GradeMate, focusing on improving grading accuracy through m
 
 ---
 
-## 📈 Let's Connect!
+## 📫 Let's Connect!
 
 - **LinkedIn**: [Laura Uguccioni](https://www.linkedin.com/in/laurauguccioni/)
 - **GitHub**: You’re here! Check out my repos to see what I’ve been working on.
