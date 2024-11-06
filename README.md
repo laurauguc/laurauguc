@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 
 # Hi there! 👋 I'm Laura Uguccioni
 
-🎓 **Data Scientist | ML Engineer | AI Innovator**
+🎓 **Data Scientist**
 
 I’m passionate about the intersection of technology, social science, and ethics. My journey has taken me from academic training in quantitative social science to managing data science teams and diving into hands-on engineering. I'm passionate about building AI tools and mentoring future innovators. Recently, I’ve focused on **AI-driven tools for education** and further exploring the **mathematics of model building**.
 
@@ -25,7 +25,7 @@ I’m passionate about the intersection of technology, social science, and ethic
 ## 🔍 What I'm Working On
 
 **🌟 [GradeMate](https://github.com/laurauguc/grading_assistant)**  
-An AI-powered app designed to assist teachers with grading by providing insightful recommendations. I’m developing a **freemium model** that offers a free basic tier for individual educators and a premium version for schools, complete with enhanced features and integrations.
+An AI-powered app designed to assist teachers with grading by providing insightful recommendations. I built the backend using Django and integrated it with the React frontend, buit by my friend Ksenia. We are developing a **freemium model** that offers a free basic tier for individual educators and a premium version for schools, complete with enhanced features and integrations.
 
 **🤖 [GradeMate with Llama](https://github.com/laurauguc/llama_grading)**  
 This project extends GradeMate, focusing on improving grading accuracy through model fine-tuning. I’m leading efforts to **fine-tune open-source LLMs** for tasks like scoring, providing justifications, and generating feedback. My work involves implementing fine-tuning and refining orchestration and evaluation processes to ensure reliable, high-quality outputs.
