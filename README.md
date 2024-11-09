@@ -52,6 +52,9 @@ This project extends GradeMate, focusing on improving grading accuracy through m
 - **Cross-Voting Election Patterns**  
   [GitHub Repository](https://github.com/laurauguc/cross-voting)
 
+- **Bayesian Time Series Analysis with Stan**
+  [GitHub Repository](https://github.com/laurauguc/bayesian_time_series)
+
 - **A Human-Machine Collaboration to Avoid Wrongful Incarceration**  
   [TED Talk](https://www.ted.com/talks/laura_uguccioni_a_human_machine_collaboration_to_avoid_wrongful_incarceration?subtitle=en&geo=es)
 
