@@ -25,7 +25,7 @@ I’m passionate about the intersection of technology, social science, and ethic
 ## 🔭 What I'm Working On
 
 **🌟 [GradeMate](https://github.com/laurauguc/grading_assistant)** — *App Development*  
-An AI-powered app designed to assist teachers with grading by providing insightful recommendations. I built the backend using python and Django and integrated it with the React frontend, built by my friend Ksenia. We are working with QMSS Innovation Lab to exapnd this project and developing a **freemium model** that offers a free basic tier for individual educators and a premium version for schools, complete with enhanced features and integrations.
+GradeMate is an open-source application that supports teachers with grading by offering AI-generated recommendations. I developed the backend using Python and Django, integrating it with a React frontend built by my collaborator, Ksenia. In partnership with the QMSS Innovation Lab, we're expanding GradeMate as a transparent, contestable, and ethically grounded alternative to the wave of closed-source, for-profit tools that often make unverified claims of “eliminating bias” or achieving “better-than-human” performance.
 
 **🤖 [GradeMate with Llama](https://github.com/laurauguc/llama_grading)** — *Machine Learning Research*  
 This project extends GradeMate, focusing on improving grading accuracy through model fine-tuning. I’m leading efforts to **fine-tune open-source LLMs** for tasks like scoring, providing justifications, and generating feedback. My work involves implementing fine-tuning and refining orchestration and evaluation processes to ensure reliable, high-quality outputs.
@@ -48,6 +48,9 @@ This project extends GradeMate, focusing on improving grading accuracy through m
 ---
 
 ## 🌱 Past Projects and Contributions
+
+- **What LLM Storytelling Tells Us About LLMs**
+  [GitHub Repository](https://github.com/laurauguc/llm_stories/tree/main)
 
 - **Cross-Voting Election Patterns**  
   [GitHub Repository](https://github.com/laurauguc/cross-voting)
