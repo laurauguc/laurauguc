@@ -49,7 +49,7 @@ This project extends GradeMate, focusing on improving grading accuracy through m
 
 ## 🌱 Past Projects and Contributions
 
-- **What LLM Storytelling Tells Us About LLMs**
+- **What LLM Storytelling Tells Us About LLMs**    
   [GitHub Repository](https://github.com/laurauguc/llm_stories/tree/main)
 
 - **Cross-Voting Election Patterns**  
