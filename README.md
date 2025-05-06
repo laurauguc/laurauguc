@@ -49,29 +49,29 @@ This project extends GradeMate, focusing on improving grading accuracy through m
 
 ## 🌱 Past Projects and Contributions
 
-- **What LLM Storytelling Tells Us About LLMs**    
+- **What LLM Storytelling Tells Us About LLMs**  — *Exploratory Analysis*  
   [GitHub Repository](https://github.com/laurauguc/llm_stories/tree/main)
 
-- **Cross-Voting Election Patterns**  
+- **Cross-Voting Election Patterns**  — *Data Visualization*    
   [GitHub Repository](https://github.com/laurauguc/cross-voting)
 
-- **Bayesian Time Series Analysis with Stan**  
+- **Bayesian Time Series Analysis with Stan**  — *Mathematical Modeling*    
   [GitHub Repository](https://github.com/laurauguc/bayesian_time_series)
 
-- **A Human-Machine Collaboration to Avoid Wrongful Incarceration**  
+- **A Human-Machine Collaboration to Avoid Wrongful Incarceration**  — *Text Processing*    
   [TEDx Talk](https://www.ted.com/talks/laura_uguccioni_a_human_machine_collaboration_to_avoid_wrongful_incarceration?subtitle=en&geo=es)
 
-- **Twitter Sentiment in New York City Parks as a Measure of Well-Being**  
+- **Twitter Sentiment in New York City Parks as a Measure of Well-Being**  — *Applied Machine Learning*    
   [ScienceDirect Link](https://www.sciencedirect.com/science/article/pii/S0169204618305863)
 
-- **Indebted to Work: Bondage in Brick Kilns**  
+- **Indebted to Work: Bondage in Brick Kilns**  — *Human Rights Research*    
   [Springer Link](https://link.springer.com/chapter/10.1057/978-1-349-95957-0_19)  
 
-- **Using a Glacier Website to Promote Action and Build Community**  
+- **Using a Glacier Website to Promote Action and Build Community**  — *Web Analytics*    
   [JStore Link](https://www.jstor.org/stable/j.ctvjnrw0q)
   *Contributed Chapter 12 in the book:* *Climate, Capitalism, and Communities: An Anthropology of Environmental Overheating*  
   
-- **Research on Food Deserts**  
+- **Research on Food Deserts**  — *Statistical Analysis*    
   [Project Report](https://github.com/laurauguc/Food-Deserts-in-Mississippi/blob/master/Food%20Deserts%20-%20Final%20Project.pdf)  
 
 
