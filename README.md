@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 
 🎓 **Data Scientist | ML Engineer | Building meaningful, responsible AI tools**
 
-I’m passionate about the intersection of technology, social science, and ethics. My journey has taken me from academic training in quantitative social science to managing data science teams and diving into hands-on engineering. I'm committed to building socially responsible tools and mentoring future innovators. Recently, I’ve focused on **AI-driven tools for education** and further exploring the **mathematics of model building**.
+I’m passionate about the intersection of technology, social science, and ethics. My journey has taken me from academic training in philosophy to an advanced degree in quantitative social science to managing data science teams and diving into hands-on engineering. I'm committed to building socially responsible tools and mentoring future innovators. Recently, I’ve focused on **AI-driven tools for education** and further exploring the **mathematics of model building**.
 
 ---
 
