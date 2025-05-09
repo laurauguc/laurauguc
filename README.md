@@ -24,6 +24,15 @@ I’m passionate about the intersection of technology, social science, and ethic
 
 ## 🔭 What I'm Working On
 
+**✏️ [WriteWise](https://huggingface.co/spaces/laurauguc/ai_feedback)** - *LLM Integration & Workflow*  
+**WriteWise** is an **AI-powered writing feedback tool** that helps users enhance their written work through tailored, high-quality feedback. It delivers both **high-level insights** and **detailed, downloadable in-document comments** to support meaningful revision.
+
+Users can upload a piece of writing along with relevant **assignment criteria** using flexible input options: **curated rubrics**, **custom uploads**, or the built-in **Universal Writing Assignment Rubric**.
+
+**Advanced settings** allow users to choose a feedback strategy — **Glow & Grow**, **Error Spotting**, or **Rubric-Focused** — to personalize the experience.
+
+
+
 **🌟 [GradeMate](https://github.com/laurauguc/grading_assistant)** — *App Development*  
 GradeMate is an open-source application designed to assist teachers with grading by providing AI-generated recommendations. I developed the backend using Python and Django, while my collaborator, Ksenia, built the React-based frontend. In collaboration with Columbia University's QMSS Innovation Lab, we are working to expand GradeMate as a transparent, contestable, and ethically grounded alternative to many commercial tools. Our aim is to promote responsible innovation in educational technology, especially in contrast to closed-source solutions that sometimes make broad claims about eliminating bias or surpassing human performance.
 
