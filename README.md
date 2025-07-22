@@ -33,8 +33,7 @@ Users can upload a piece of writing along with relevant **assignment criteria** 
 
 
 
-**🌟 [GradeMate](https://github.com/laurauguc/grading_assistant)** — *App Development*  
-GradeMate is an open-source application designed to assist teachers with grading by providing AI-generated recommendations. I developed the backend using Python and Django, while my collaborator, Ksenia, built the React-based frontend. In collaboration with Columbia University's QMSS Innovation Lab, we are working to expand GradeMate as a transparent, contestable, and ethically grounded alternative to many commercial tools. Our aim is to promote responsible innovation in educational technology, especially in contrast to closed-source solutions that sometimes make broad claims about eliminating bias or surpassing human performance.
+
 
 **🤖 [GradeMate with Llama](https://github.com/laurauguc/llama_grading)** — *Machine Learning Research*  
 This project extends GradeMate, focusing on improving grading accuracy through model fine-tuning. I’m leading efforts to **fine-tune open-source LLMs** for tasks like scoring, providing justifications, and generating feedback. My work involves implementing fine-tuning and refining orchestration and evaluation processes to ensure reliable, high-quality outputs.
@@ -60,6 +59,11 @@ This project extends GradeMate, focusing on improving grading accuracy through m
 
 - **What LLM Storytelling Tells Us About LLMs**  — *Exploratory Analysis*  
   [GitHub Repository](https://github.com/laurauguc/llm_stories/tree/main)
+
+- **🌟 GradeMate** — *App Development*
+
+  [GitHub Repository](https://github.com/laurauguc/grading_assistant)
+  GradeMate is an open-source application designed to assist teachers with grading by providing AI-generated recommendations. I developed the backend using Python and Django, while my collaborator, Ksenia, built the React-based   frontend. In collaboration with Columbia University's QMSS Innovation Lab, we are working to expand GradeMate as a transparent, contestable, and ethically grounded alternative to many commercial tools. Our aim is to promote responsible innovation in educational technology, especially in contrast to closed-source solutions that sometimes make broad claims about eliminating bias or surpassing human performance.
 
 - **Cross-Voting Election Patterns**  — *Data Visualization*    
   [GitHub Repository](https://github.com/laurauguc/cross-voting)
