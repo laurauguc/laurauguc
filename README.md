@@ -24,19 +24,14 @@ I’m passionate about the intersection of technology, social science, and ethic
 
 ## 🔭 What I'm Working On
 
-**✏️ [WriteWise](https://huggingface.co/spaces/laurauguc/ai_feedback)** - *LLM Integration & Workflow*  
-**WriteWise** is an **AI-powered writing feedback tool** that helps users enhance their written work through tailored, high-quality feedback. It delivers both **high-level insights** and **detailed, downloadable in-document comments** to support meaningful revision.
+**📰 [Who Counts as Working Class?: Analysis of Media Representation](https://github.com/laurauguc/working_class_media_analysis)** — *Computational Media Analysis*  
+Analyzes how the working class is represented in the media, exploring changes over time and comparing narratives across publishers. Based on **40,000+ articles** published between **June 1, 1980**, and **December 31, 2024**, from *The New York Times* and other major outlets.
 
-Users can upload a piece of writing along with relevant **assignment criteria** using flexible input options: **curated rubrics**, **custom uploads**, or the built-in **Universal Writing Assignment Rubric**.
-
-**Advanced settings** allow users to choose a feedback strategy — **Glow & Grow**, **Error Spotting**, or **Rubric-Focused** — to personalize the experience.
-
-
-
-
+**✏️ [WriteWise](https://huggingface.co/spaces/laurauguc/ai_feedback)** — *AI-Powered Writing Feedback*  
+An **LLM-based tool** that delivers high-level insights and in-document comments to help users improve their writing. Supports flexible rubric options, custom uploads, and multiple feedback strategies, including **Glow & Grow**, **Error Spotting**, and **Rubric-Focused**.
 
 **🤖 [GradeMate with Llama](https://github.com/laurauguc/llama_grading)** — *Machine Learning Research*  
-This project extends GradeMate, focusing on improving grading accuracy through model fine-tuning. I’m leading efforts to **fine-tune open-source LLMs** for tasks like scoring, providing justifications, and generating feedback. My work involves implementing fine-tuning and refining orchestration and evaluation processes to ensure reliable, high-quality outputs.
+Extends GradeMate by **fine-tuning open-source LLMs** to improve grading accuracy, justification quality, and feedback generation.
 
 ---
 
@@ -57,11 +52,10 @@ This project extends GradeMate, focusing on improving grading accuracy through m
 
 ## 🌱 Past Projects and Contributions
 
-- **What LLM Storytelling Tells Us About LLMs**  — *Exploratory Analysis*  
+- **What LLM Storytelling Tells Us About LLMs**  — *Exploratory Analysis*    
   [GitHub Repository](https://github.com/laurauguc/llm_stories/tree/main)
 
-- **🌟 GradeMate** — *App Development*
-
+- **🌟 GradeMate** — *App Development*    
   [GitHub Repository](https://github.com/laurauguc/grading_assistant)
   GradeMate is an open-source application designed to assist teachers with grading by providing AI-generated recommendations. I developed the backend using Python and Django, while my collaborator, Ksenia, built the React-based   frontend. In collaboration with Columbia University's QMSS Innovation Lab, we are working to expand GradeMate as a transparent, contestable, and ethically grounded alternative to many commercial tools. Our aim is to promote responsible innovation in educational technology, especially in contrast to closed-source solutions that sometimes make broad claims about eliminating bias or surpassing human performance.
 
