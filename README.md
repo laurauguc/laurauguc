@@ -73,6 +73,10 @@ Extends GradeMate by **fine-tuning open-source LLMs** to improve grading accurac
 
 - **Twitter Sentiment in New York City Parks as a Measure of Well-Being**  — *Applied Machine Learning*    
   [ScienceDirect Link](https://www.sciencedirect.com/science/article/pii/S0169204618305863)
+  *Published in* **Landscape and Urban Planning, 189**, 235–246. A peer-reviewed study analyzing approximately **3.3 million geolocated tweets** (June 2016 – December 2017) to compare sentiment expressed inside and outside New York City parks. Findings show that while park tweets in   **Manhattan** were slightly less positive, those from parks in **Brooklyn, Queens, and the Bronx** were significantly more positive.  
+  The study demonstrates how **social-media sentiment analysis** can serve as a proxy for **urban well-being**, offering insights for **urban design and public-space planning**.
+
+  
 
 - **Indebted to Work: Bondage in Brick Kilns**  — *Human Rights Research*    
   [Springer Link](https://link.springer.com/chapter/10.1057/978-1-349-95957-0_19)  
