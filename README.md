@@ -54,6 +54,7 @@ Extends GradeMate by **fine-tuning open-source LLMs** to improve grading accurac
 
 - **What LLM Storytelling Tells Us About LLMs**  — *Exploratory Analysis*    
   [GitHub Repository](https://github.com/laurauguc/llm_stories/tree/main)
+  Runs an experiment examining how large language model (LLM) storytelling reveals latent patterns, embedded values, and subtle biases within OpenAI’s GPT-4.1 (April 2025 release).
 
 - **🌟 GradeMate** — *App Development*    
   [GitHub Repository](https://github.com/laurauguc/grading_assistant)
@@ -61,9 +62,11 @@ Extends GradeMate by **fine-tuning open-source LLMs** to improve grading accurac
 
 - **Cross-Voting Election Patterns**  — *Data Visualization*    
   [GitHub Repository](https://github.com/laurauguc/cross-voting)
+  Interactive Python and Leaflet visualization analyzing cross-voting in Mexico’s landmark 2024 elections—marked by the first female presidential victory and record margin—revealing how Sonora voters backed Morena nationally but favored a PAN candidate locally.
 
 - **Bayesian Time Series Analysis with Stan**  — *Mathematical Modeling*    
   [GitHub Repository](https://github.com/laurauguc/bayesian_time_series)
+  Implementation of a Bayesian ARIMA model in Stan, with visualization of uncertainty propagation through posterior sampling and comparison of results to a frequentist approach to highlight theoretical and practical differences in time-series forecasting.
 
 - **A Human-Machine Collaboration to Avoid Wrongful Incarceration**  — *Text Processing*    
   [TEDx Talk](https://www.ted.com/talks/laura_uguccioni_a_human_machine_collaboration_to_avoid_wrongful_incarceration?subtitle=en&geo=es)
