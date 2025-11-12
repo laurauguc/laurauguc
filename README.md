@@ -57,7 +57,7 @@ Extends GradeMate by **fine-tuning open-source LLMs** to improve grading accurac
 
 - **🌟 GradeMate** — *App Development*    
   [GitHub Repository](https://github.com/laurauguc/grading_assistant)
-  GradeMate is an open-source application designed to assist teachers with grading by providing AI-generated recommendations. I developed the backend using Python and Django, while my collaborator, Ksenia, built the React-based   frontend. In collaboration with Columbia University's QMSS Innovation Lab, we are working to expand GradeMate as a transparent, contestable, and ethically grounded alternative to many commercial tools. Our aim is to promote responsible innovation in educational technology, especially in contrast to closed-source solutions that sometimes make broad claims about eliminating bias or surpassing human performance.
+  GradeMate was an initial exploration into using AI for evaluation, allowing us to build an MVP and gather educator feedback. I developed the Python/Django backend, while my collaborator, Ksenia, built the React frontend. The project later evolved into **The Feedback Desk**, developed with Columbia University’s QMSS Innovation Lab to advance transparent and ethical AI in education.
 
 - **Cross-Voting Election Patterns**  — *Data Visualization*    
   [GitHub Repository](https://github.com/laurauguc/cross-voting)
