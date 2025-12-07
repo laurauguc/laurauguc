@@ -2,23 +2,13 @@
 <!--
 **laurauguc/laurauguc** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
 -->
 
 # Hi there! 👋 I’m Laura Uguccioni  
 
-🎓 **Data Scientist | ML Engineer | Human-Centered AI for Evidence & Judgment**
+🎓 **Computational Social Scientist & ML Engineer | Human-Centered AI**
 
-I build and study AI systems as **scientific instruments for decision-making, education, and social inquiry**. My background spans **philosophy, economics, and quantitative social science**, and my work sits at the intersection of **machine learning, human judgment, and ethical evaluation**.  
+I build and study AI systems as **tools for decision-making, education, and social inquiry**. My background spans **philosophy, economics, and quantitative social science**, and my work sits at the intersection of **machine learning, human judgment, and ethical evaluation**.  
 
 With 8+ years of experience across **research, consulting, and product development**, I’ve led large-scale AI deployments, published peer-reviewed research, and built **generative AI systems that support evidence-based feedback and learning**. I’m especially interested in how **uncertainty, bias, and evaluation shape the real-world use of AI**.
 
@@ -29,11 +19,11 @@ With 8+ years of experience across **research, consulting, and product developme
 **📰 [Who Counts as Working Class?](https://github.com/laurauguc/working_class_media_analysis)** — *Computational Social Science*  
 Large-scale media analysis of how “working class” is represented across **40,000+ articles (1980–2024)** using NLP and generative AI. Conducted in collaboration with a professor at **Columbia University**.
 
-**✏️ [The Feedback Desk / WriteWise](https://huggingface.co/spaces/laurauguc/ai_feedback)** — *Human–AI Evaluation in Education*  
+**✏️ [WriteWise](https://huggingface.co/spaces/laurauguc/ai_feedback)** — *Human–AI Evaluation in Education*  
 An **AI-powered formative feedback system** for writing assessment. Uses agentic LLM workflows grounded in **learning science**, with multiple feedback strategies (Glow & Grow, Rubric-Based, Error Spotting).  
 → Actively developing **evaluation pipelines** with **Columbia University practicum students** to measure pedagogical effectiveness and user trust.
 
-**🤖 [GradeMate with Llama](https://github.com/laurauguc/llama_grading)** — *Open-Source LLM Fine-Tuning*  
+**🤖 [Writing Feedback with Llama](https://github.com/laurauguc/llama_grading)** — *Open-Source LLM Fine-Tuning*  
 Research on **fine-tuning open-source LLMs for grading and justification**, focusing on improving **explainability and alignment with human judgment**.
 
 ---
@@ -51,7 +41,7 @@ Research on **fine-tuning open-source LLMs for grading and justification**, focu
 
 - **[Twitter Sentiment & Urban Well-Being](https://www.sciencedirect.com/science/article/pii/S0169204618305863)** — *Landscape and Urban Planning, 2019*  
   Peer-reviewed study of **3.3M geolocated tweets** showing how social media sentiment can serve as a proxy for **urban well-being**.  
-  → **Cited 228 times (Google Scholar)**.
+  → **📈 228 citations on Google Scholar**.
 
 ---
 
@@ -66,7 +56,7 @@ Research on **fine-tuning open-source LLMs for grading and justification**, focu
 ## 🧠 Methods & Tools
 
 - **Programming**: Python, R, Stan  
-- **Machine Learning**: Scikit-learn, PyTorch (foundational)  
+- **Machine Learning**: Scikit-learn, PyTorch (model training & fine-tuning)
 - **NLP & GenAI**: Hugging Face Transformers, LangChain, Agentic Workflows, RAG, LLM Evaluation Pipelines  
 - **Statistics**: Bayesian Hierarchical Models, GLMs, Experiment Design, Time-Series Forecasting  
 
