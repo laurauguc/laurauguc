@@ -50,7 +50,8 @@ Research on **fine-tuning open-source LLMs for grading and justification**, focu
   Interactive Python + Leaflet analysis of **split-ticket voting** in a historic national election.
 
 - **[Twitter Sentiment & Urban Well-Being](https://www.sciencedirect.com/science/article/pii/S0169204618305863)** — *Landscape and Urban Planning, 2019*  
-  Peer-reviewed study of **3.3M geolocated tweets** showing how social media sentiment can serve as a proxy for **urban well-being**.
+  Peer-reviewed study of **3.3M geolocated tweets** showing how social media sentiment can serve as a proxy for **urban well-being**.  
+  → **Cited 228 times (Google Scholar)**.
 
 ---
 
