@@ -16,14 +16,14 @@ With 8+ years of experience across **research, consulting, and product developme
 
 ## 🔬 Current Research & Building
 
-**📰 [Who Counts as Working Class?](https://github.com/laurauguc/working_class_media_analysis)** — *Computational Social Science*  
+**📰 [Who Counts as Working Class?](https://github.com/laurauguc/working_class_media_analysis)** — *Computational Social Science* (2025–Present) 
 Large-scale media analysis of how “working class” is represented across **40,000+ articles (1980–2024)** using NLP and generative AI. Conducted in collaboration with a professor at **Columbia University**.
 
-**✏️ [WriteWise](https://huggingface.co/spaces/laurauguc/ai_feedback)** — *Human–AI Evaluation in Education*  
+**✏️ [WriteWise](https://huggingface.co/spaces/laurauguc/ai_feedback)** — *Human–AI Evaluation in Education* (2025–Present) 
 An **AI-powered formative feedback system** for writing assessment. Uses agentic LLM workflows grounded in **learning science**, with multiple feedback strategies (Glow & Grow, Rubric-Based, Error Spotting).  
 → Actively developing **evaluation pipelines** with **Columbia University practicum students** to measure pedagogical effectiveness and user trust.
 
-**🤖 [Writing Feedback with Llama](https://github.com/laurauguc/llama_grading)** — *Open-Source LLM Fine-Tuning*  
+**🤖 [Writing Feedback with Llama](https://github.com/laurauguc/llama_grading)** — *Open-Source LLM Fine-Tuning* (2024–Present) 
 Research on **fine-tuning open-source LLMs for grading and justification**, focusing on improving **explainability and alignment with human judgment**.
 
 ---
@@ -47,8 +47,7 @@ Research on **fine-tuning open-source LLMs for grading and justification**, focu
 
 ## ⚖️ Human–AI Judgment & Social Impact
 
-- **[TEDx Talk (2022)](https://www.ted.com/talks/laura_uguccioni_a_human_machine_collaboration_to_avoid_wrongful_incarceration?subtitle=en&geo=es)**: *A Human-Machine Collaboration to Avoid Wrongful Incarceration*  
-- Led a state-level AI project that uncovered **1M+ days of missing sentence reductions**, restoring justice and saving **$100M in prison costs**.
+- Built an **NLP system to process years of unrecorded inmate-submitted data**, uncovering **1M+ days of missed sentence reductions** and saving **$100M** → [TEDx Talk (2022)](https://www.ted.com/talks/laura_uguccioni_a_human_machine_collaboration_to_avoid_wrongful_incarceration?subtitle=en&geo=es)
 - United Nations collaborations with **UNODC, UNDP, and ILO** on **trafficking, gender equity, and financial inclusion** in India.
 
 ---
