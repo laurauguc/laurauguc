@@ -30,25 +30,36 @@ Research on **fine-tuning open-source LLMs for grading and justification**, focu
 
 ## 🧪 Selected Research & Experiments
 
-- **[What LLM Storytelling Tells Us About LLMs](https://github.com/laurauguc/llm_stories/tree/main)** (2025)  
-  Experimental study of how **narrative generation reveals latent values and biases** in GPT-4.1.
+**[What LLM Storytelling Tells Us About LLMs](https://github.com/laurauguc/llm_stories/tree/main)** — *Experimental NLP*, 2025  
+Experimental study of how **narrative generation reveals latent values and biases** in GPT-4.1.
 
-- **[Bayesian Time Series with Stan](https://github.com/laurauguc/bayesian_time_series)** (2024)  
-  Bayesian ARIMA with full posterior uncertainty propagation and comparison to frequentist forecasting.
+**[Bayesian Time Series with Stan](https://github.com/laurauguc/bayesian_time_series)** — *Bayesian Forecasting*, 2024  
+Bayesian ARIMA with full posterior uncertainty propagation and comparison to frequentist forecasting.
 
-- **[Cross-Voting in Mexico’s 2024 Election](https://github.com/laurauguc/cross-voting)** (2024)  
-  Interactive Python + Leaflet analysis of **split-ticket voting** in a historic national election.
+**[Cross-Voting in Mexico’s 2024 Election](https://github.com/laurauguc/cross-voting)** — *Political Data Science*, 2024  
+Interactive Python + Leaflet analysis of **split-ticket voting** in a historic national election.
 
-- **[Twitter Sentiment & Urban Well-Being](https://www.sciencedirect.com/science/article/pii/S0169204618305863)** — *Landscape and Urban Planning, 2019*  
-  Peer-reviewed study of **3.3M geolocated tweets** showing how social media sentiment can serve as a proxy for **urban well-being**.  
-  → **📈 228 citations on Google Scholar**.
+**[Twitter Sentiment & Urban Well-Being](https://www.sciencedirect.com/science/article/pii/S0169204618305863)** — *Landscape and Urban Planning (Journal)*, 2019  
+Peer-reviewed study of **3.3M geolocated tweets** showing how social media sentiment can serve as a proxy for **urban well-being**.  
+→ **📈 228 citations on Google Scholar**.
 
 ---
 
 ## ⚖️ Human–AI Judgment & Social Impact
 
 - Built an **NLP system to process years of unrecorded inmate-submitted data**, uncovering **1M+ days of missed sentence reductions** and saving **$100M** → [TEDx Talk (2022)](https://www.ted.com/talks/laura_uguccioni_a_human_machine_collaboration_to_avoid_wrongful_incarceration?subtitle=en&geo=es)
+
 - United Nations collaborations with **UNODC, UNDP, and ILO** on **trafficking, gender equity, and financial inclusion** in India.
+
+---
+
+## 🌍 Additional Scholarship
+
+**[Using a Glacier Website to Promote Action and Build Community](https://www.jstor.org/stable/j.ctvjnrw0q)** — *Climate, Capitalism, and Communities*  
+
+**[Indebted to Work: Bondage in Brick Kilns](https://link.springer.com/chapter/10.1057/978-1-349-95957-0_19)** — *Palgrave Handbook of Bondage and Human Rights*  
+
+**[Research on Food Deserts](https://github.com/laurauguc/Food-Deserts-in-Mississippi/blob/master/Food%20Deserts%20-%20Final%20Project.pdf)** — *Statistical Analysis*
 
 ---
 
@@ -61,13 +72,6 @@ Research on **fine-tuning open-source LLMs for grading and justification**, focu
 
 ---
 
-## 🌍 Additional Scholarship
-
-- **[Using a Glacier Website to Promote Action and Build Community](https://www.jstor.org/stable/j.ctvjnrw0q)** — *Climate, Capitalism, and Communities*  
-- **[Indebted to Work: Bondage in Brick Kilns](https://link.springer.com/chapter/10.1057/978-1-349-95957-0_19)** — *Palgrave Handbook of Bondage and Human Rights*  
-- **[Research on Food Deserts](https://github.com/laurauguc/Food-Deserts-in-Mississippi/blob/master/Food%20Deserts%20-%20Final%20Project.pdf)** — *Statistical Analysis*
-
----
 
 ## 🎓 Education
 
