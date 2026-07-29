@@ -16,7 +16,7 @@ With 8+ years of experience across **research, consulting, and product developme
 
 ## 🔬 Current Research & Building
 
-**🧠 [Inside GPT-2: Following a Prompt Through the Transformer](https://github.com/laurauguc/gpt2-walkthrough)** — *Transformer Architecture & Deep Learning* (2026–Present)  
+**🧠 [Inside GPT-2: Following a Prompt Through the Transformer](https://github.com/laurauguc/inside-gpt2)** — *Transformer Architecture & Deep Learning* (2026–Present)  
 An interactive **Google Colab walkthrough** of GPT-2 Small that follows a single prompt through every stage of inference—from tokenization and embeddings to the final next-token prediction. Each computation is independently reproduced using the model's learned parameters and verified against the official Hugging Face implementation, combining mathematical rigor with practical intuition to provide a complete understanding of the Transformer architecture.
 
 **📰 [Who Counts as Working Class?](https://github.com/laurauguc/working_class_media_analysis)** — *Computational Social Science* (2025–Present)  
