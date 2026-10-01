@@ -15,19 +15,18 @@ My interests span **LLMs, AI evaluation, quantitative social science, and the in
 **🧠 [Inside GPT-2: Following a Prompt Through the Transformer](https://github.com/laurauguc/inside-gpt2)** — *Transformer Architecture & Deep Learning* (2026–Present)  
 An interactive **Google Colab walkthrough** of GPT-2 Small that follows a single prompt through every stage of inference—from tokenization and embeddings to the final next-token prediction. Each computation is independently reproduced using the model's learned parameters and verified against the official Hugging Face implementation, combining mathematical rigor with practical intuition to provide a complete understanding of the Transformer architecture.
 
-**📰 [Who Counts as Working Class?](https://github.com/laurauguc/working_class_media_analysis)** — *Computational Social Science* (2025–Present)  
-Large-scale media analysis of how “working class” is represented across **40,000+ articles (1980–2024)** using NLP and generative AI. Conducted in collaboration with a professor at **Columbia University**.
-
-**✏️ [WriteWise](https://huggingface.co/spaces/laurauguc/ai_feedback)** — *Human–AI Evaluation in Education* (2025–Present)  
-An **AI-powered formative feedback system** for writing assessment. Uses agentic LLM workflows grounded in **learning science**, with multiple feedback strategies (Glow & Grow, Rubric-Based, Error Spotting).  
-→ Actively developing **evaluation pipelines** with **Columbia University practicum students** to measure pedagogical effectiveness and user trust.
-
-**🤖 [Writing Feedback with Llama](https://github.com/laurauguc/llama_grading)** — *Open-Source LLM Fine-Tuning* (2024–Present)  
-Research on **fine-tuning open-source LLMs for grading and justification**, focusing on improving **explainability and alignment with human judgment**.
 
 ---
 
 ## 🧪 Selected Research & Experiments
+
+**📰 [Who Counts as Working Class?](https://github.com/laurauguc/working_class_media_analysis)** — *Computational Social Science* (2025)  
+Large-scale media analysis of how “working class” is represented across **40,000+ articles (1980–2024)** using NLP and generative AI. Conducted in collaboration with a professor at **Columbia University**.
+
+**✏️ [WriteWise](https://huggingface.co/spaces/laurauguc/ai_feedback)** — *Human–AI Evaluation in Education* (2025)  
+An **AI-powered formative feedback system** for writing assessment. Uses agentic LLM workflows grounded in **learning science**, with multiple feedback strategies (Glow & Grow, Rubric-Based, Error Spotting).  
+→ Subject of **evaluation studys** by **Columbia University practicum students** to measure pedagogical effectiveness and user trust.
+
 
 **[What LLM Storytelling Tells Us About LLMs](https://github.com/laurauguc/llm_stories/tree/main)** — *Experimental NLP*, 2025  
 Experimental study of how **narrative generation reveals latent values and biases** in GPT-4.1.
