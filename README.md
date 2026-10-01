@@ -6,7 +6,8 @@
 
 # Hi there! 👋 I’m Laura Uguccioni  
 
-🎓 **Computational Social Scientist & ML Engineer | Human-Centered AI**
+💻 **Applied AI Engineer**
+🎓 **M.A. Quantitative Methods in the Social Sciences, Columbia University**
 
 I build and study AI systems as **tools for decision-making, education, and social inquiry**. My background spans **philosophy, economics, and quantitative social science**, and my work sits at the intersection of **machine learning, human judgment, and ethical evaluation**.  
 
