@@ -1,17 +1,12 @@
 
-<!--
-**laurauguc/laurauguc** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Hi there! 👋 I’m Laura Uguccioni
 
--->
+💻 **Applied AI Engineer**  
+🎓 **Quantitative Social Science · Economics · Philosophy**
 
-# Hi there! 👋 I’m Laura Uguccioni  
+I’m a data scientist by training and experience, currently exploring new developments in AI through independent research and hands-on projects.
 
-💻 **Applied AI Engineer**
-🎓 **M.A. Quantitative Methods in the Social Sciences, Columbia University**
-
-I build and study AI systems as **tools for decision-making, education, and social inquiry**. My background spans **philosophy, economics, and quantitative social science**, and my work sits at the intersection of **machine learning, human judgment, and ethical evaluation**.  
-
-With 8+ years of experience across **research, consulting, and product development**, I’ve led large-scale AI deployments, published peer-reviewed research, and built **generative AI systems that support evidence-based feedback and learning**. I’m especially interested in how **uncertainty, bias, and evaluation shape the real-world use of AI**.
+My interests span **LLMs, AI evaluation, quantitative social science, and the interaction between technology and human judgment**.
 
 ---
 
