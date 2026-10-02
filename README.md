@@ -26,6 +26,7 @@ Peer-reviewed study of **3.3M geolocated tweets** showing how social media senti
 **[Using a Glacier Website to Promote Action and Build Community](https://www.jstor.org/stable/j.ctvjnrw0q)** — *Climate, Capitalism, and Communities*  
 
 **[Indebted to Work: Bondage in Brick Kilns](https://link.springer.com/chapter/10.1057/978-1-349-95957-0_19)** — *Palgrave Handbook of Bondage and Human Rights*  
+
 ---
 
 ## 🧪 Selected Research & Experiments
