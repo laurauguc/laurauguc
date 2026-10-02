@@ -52,11 +52,11 @@ Interactive Python + Leaflet analysis of **split-ticket voting** in a historic n
 
 ## ⚖️ Human–AI Judgment & Social Impact
 
+-  **[Research on Food Deserts](https://github.com/laurauguc/Food-Deserts-in-Mississippi/blob/master/Food%20Deserts%20-%20Final%20Project.pdf)** — *Statistical Analysis*
+
 - Built an **NLP system to process years of unrecorded inmate-submitted data**, uncovering **1M+ days of missed sentence reductions** and saving **$100M** → [TEDx Talk (2022)](https://www.ted.com/talks/laura_uguccioni_a_human_machine_collaboration_to_avoid_wrongful_incarceration?subtitle=en&geo=es)
 
 - United Nations collaborations with **UNODC, UNDP, and ILO** on **trafficking, gender equity, and financial inclusion** in India.
-
-**[Research on Food Deserts](https://github.com/laurauguc/Food-Deserts-in-Mississippi/blob/master/Food%20Deserts%20-%20Final%20Project.pdf)** — *Statistical Analysis*
 
 ---
 
