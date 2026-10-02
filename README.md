@@ -29,7 +29,7 @@ Peer-reviewed study of **3.3M geolocated tweets** showing how social media senti
 
 ---
 
-## 🧪 Selected Research & Experiments
+## 🧪 Other Research & Experiments
 
 **📰 [Who Counts as Working Class?](https://github.com/laurauguc/working_class_media_analysis)** — *Computational Social Science* (2025)  
 Large-scale media analysis of how “working class” is represented across **40,000+ articles (1980–2024)** using NLP and generative AI. Conducted in collaboration with a professor at **Columbia University**.
@@ -37,7 +37,6 @@ Large-scale media analysis of how “working class” is represented across **40
 **✏️ [WriteWise](https://huggingface.co/spaces/laurauguc/ai_feedback)** — *Human–AI Evaluation in Education* (2025)  
 An **AI-powered formative feedback system** for writing assessment. Uses agentic LLM workflows grounded in **learning science**, with multiple feedback strategies (Glow & Grow, Rubric-Based, Error Spotting).  
 → Subject of **evaluation studys** by **Columbia University practicum students** to measure pedagogical effectiveness and user trust.
-
 
 **[What LLM Storytelling Tells Us About LLMs](https://github.com/laurauguc/llm_stories/tree/main)** — *Experimental NLP*, 2025  
 Experimental study of how **narrative generation reveals latent values and biases** in GPT-4.1.
@@ -48,15 +47,11 @@ Bayesian ARIMA with full posterior uncertainty propagation and comparison to fre
 **[Cross-Voting in Mexico’s 2024 Election](https://github.com/laurauguc/cross-voting)** — *Political Data Science*, 2024  
 Interactive Python + Leaflet analysis of **split-ticket voting** in a historic national election.
 
----
+**[Research on Food Deserts](https://github.com/laurauguc/Food-Deserts-in-Mississippi/blob/master/Food%20Deserts%20-%20Final%20Project.pdf)** — *Statistical Analysis*
 
-## ⚖️ Human–AI Judgment & Social Impact
+Built an **NLP system to process years of unrecorded inmate-submitted data**, uncovering **1M+ days of missed sentence reductions** and saving **$100M** → [TEDx Talk (2022)](https://www.ted.com/talks/laura_uguccioni_a_human_machine_collaboration_to_avoid_wrongful_incarceration?subtitle=en&geo=es)
 
--  **[Research on Food Deserts](https://github.com/laurauguc/Food-Deserts-in-Mississippi/blob/master/Food%20Deserts%20-%20Final%20Project.pdf)** — *Statistical Analysis*
-
-- Built an **NLP system to process years of unrecorded inmate-submitted data**, uncovering **1M+ days of missed sentence reductions** and saving **$100M** → [TEDx Talk (2022)](https://www.ted.com/talks/laura_uguccioni_a_human_machine_collaboration_to_avoid_wrongful_incarceration?subtitle=en&geo=es)
-
-- United Nations collaborations with **UNODC, UNDP, and ILO** on **trafficking, gender equity, and financial inclusion** in India.
+Various United Nations collaborations with **UNODC, UNDP, and ILO** on **trafficking, gender equity, and financial inclusion** in India.
 
 ---
 
