@@ -23,9 +23,9 @@ An interactive **Google Colab walkthrough** of GPT-2 Small that follows a single
 Peer-reviewed study of **3.3M geolocated tweets** showing how social media sentiment can serve as a proxy for **urban well-being**.  
 → **📈 261 citations on Google Scholar**.
 
-**[Using a Glacier Website to Promote Action and Build Community](https://www.jstor.org/stable/j.ctvjnrw0q)** — *Climate, Capitalism, and Communities*  
+**[Using a Glacier Website to Promote Action and Build Community](https://www.jstor.org/stable/j.ctvjnrw0q)** — *Climate, Capitalism, and Communities* (chapter in book), 2019
 
-**[Indebted to Work: Bondage in Brick Kilns](https://link.springer.com/chapter/10.1057/978-1-349-95957-0_19)** — *Palgrave Handbook of Bondage and Human Rights*  
+**[Indebted to Work: Bondage in Brick Kilns](https://link.springer.com/chapter/10.1057/978-1-349-95957-0_19)** — *Palgrave Handbook of Bondage and Human Rights*  (chapter in book), 2020
 
 ---
 
